@@ -4,5 +4,7 @@ using namespace std;
 
 int main()
 {
-    return 4+6;
+    int a=4;
+    int b=6;
+    return a+b;
 }
